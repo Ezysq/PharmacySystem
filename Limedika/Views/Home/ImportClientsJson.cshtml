@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Import Clients";
+}
+
+@model ImportClients
+
+<div class="text-center">
+    <h1 class="display-4">Import Clients</h1>
+</div>
+
+@using (Html.BeginForm("ImportClientsFunc", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="file" id="json" name="json" class="" accept=".json" />
+            </div>
+        </div>
+        <br>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Upload" id="btnSubmit" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

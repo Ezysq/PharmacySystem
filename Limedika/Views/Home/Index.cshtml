@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <a asp-controller="Home" asp-action="Clients" class="btn btn-primary">Client List</a>
+    <a asp-controller="Home" asp-action="CreateEditClient" class="btn btn-secondary">Create Client</a>
+    <a asp-controller="Home" asp-action="ImportClientsJson" class="btn btn-secondary">Import Client</a>
+    <a asp-controller="Home" asp-action="UpdatePostalIndexes" class="btn btn-secondary">Update postal indexess</a>
+</div>

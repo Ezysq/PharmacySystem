@@ -1,0 +1,35 @@
+﻿@{
+	ViewData["Title"] = "Clients";
+}
+
+@model List<Client>
+
+<div class="text-center">
+	<h1 class="display-4">List of Clients</h1>
+	<table class="table">
+		<thead>
+			<tr>
+				<th scope="col">Name</th>
+				<th scope="col">Address</th>
+				<th scope="col">Post Code</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var client in Model)
+			{
+				<tr>
+					<th scope="row">@client.Name</th>
+					<td>@client.Address</td>
+					<td>@client.PostCode</td>
+					<td>
+						@using (Html.BeginForm("ClientLogs", "Home", client))
+						{
+							<button class="btn btn-primary">Details...</button>
+						}
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+

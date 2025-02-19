@@ -1,0 +1,47 @@
+﻿@{
+	ViewData["Title"] = "Client Logs";
+}
+
+@model dynamic
+
+<div class="text-center">
+	<h2 class="display-6">Client</h2>
+	<table class="table">
+		<thead>
+			<tr>
+				<th scope="col">Name</th>
+				<th scope="col">Address</th>
+				<th scope="col">Post Code</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row">@Model.Client.Name</th>
+				<td>@Model.Client.Address</td>
+				<td>@Model.Client.PostCode</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="text-center">
+	<h2 class="display-6">List of Client Logs</h2>
+	<table class="table">
+		<thead>
+			<tr>
+				<th scope="col">Action</th>
+				<th scope="col">Date Time</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var clientLog in Model.ClientLogs)
+			{
+				<tr>
+					<td>@clientLog.Action</td>
+					<td>@clientLog.DateTime</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+

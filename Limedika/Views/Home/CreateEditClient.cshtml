@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Client";
+}
+
+@model Limedika.Models.Client
+
+<div class="text-center">
+    <h1 class="display-4">Create or Edit Client</h1>
+</div>
+
+<form asp-action="CreateEditClientForm" asp-asp-controller="Home">
+    <label class="mt-a">Name</label>
+    <input class="form-control" type="text" placeholder="Add Name" asp-for="Name" />
+
+    <label class="mt-a">Address</label>
+    <input class="form-control" type="text" placeholder="Add Adress" asp-for="Address" />
+
+    <label class="mt-a">Post Code</label>
+    <input class="form-control" type="text" placeholder="Add Post Code" asp-for="PostCode" />
+
+    <button class="btn btn-primary mt-4" type="submit">OK</button>
+</form>
