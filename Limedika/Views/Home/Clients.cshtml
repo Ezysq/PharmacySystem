@@ -21,10 +21,18 @@
 					<th scope="row">@client.Name</th>
 					<td>@client.Address</td>
 					<td>@client.PostCode</td>
-					<td>
+					<td style="display: flex">
+						@using (Html.BeginForm("CreateEditClient", "Home", client))
+						{
+							<button class="btn btn-primary">Edit</button>
+						}
 						@using (Html.BeginForm("ClientLogs", "Home", client))
 						{
-							<button class="btn btn-primary">Details...</button>
+							<button class="btn btn-primary">Details</button>
+						}
+						@using (Html.BeginForm("RemoveClient", "Home", client))
+						{
+							<button class="btn btn-danger">Delete</button>
 						}
 					</td>
 				</tr>

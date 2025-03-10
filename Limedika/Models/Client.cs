@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Limedika.Models
@@ -14,7 +15,7 @@ namespace Limedika.Models
         public required string Address { get; set; }
 
         [Column("post_code")]
-        public string PostCode { get; set; }
+        public string? PostCode { get; set; }
 
     }
 }

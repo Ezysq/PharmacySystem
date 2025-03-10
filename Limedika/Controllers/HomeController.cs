@@ -32,17 +32,26 @@ namespace Limedika.Controllers
             var allClients = _context.Clients.ToList();
             return View(allClients);
         }
-        public IActionResult CreateEditClient()
+        public IActionResult CreateEditClient(Client? model)
         {
-            return View();
+            return View(model);
         }
         public IActionResult CreateEditClientForm(Client model)
         {
-            _context.Clients.Add(model);
+            Client existingClient = _context.Find<Client>(model.Name);
+            if (existingClient != null)
+            {
+                existingClient.Address = model.Address;
+                existingClient.PostCode = model.PostCode;
+                _context.ClientsLogs.Add(new ClientLog(model.Name, "Client record updated"));
+            }
+            else
+            {
+                _context.Clients.Add(model);
+                _context.SaveChanges();
+                 _context.ClientsLogs.Add(new ClientLog(model.Name, "New client record created"));
+            }
             _context.SaveChanges();
-            _context.ClientsLogs.Add(new ClientLog(model.Name, "New client record created"));
-            _context.SaveChanges();
-
             return RedirectToAction("Clients");
         }
         public IActionResult ImportClientsJson()
@@ -56,7 +65,6 @@ namespace Limedika.Controllers
                 ViewBag.Message = "File is empty!";
                 return RedirectToAction("ImportClientsJson");
             }
-            //return RedirectToAction("ImportClientsJson");
             ImportClients importClients = new ImportClients(json);
             
             if(importClients.SaveJson(_context))
@@ -71,11 +79,6 @@ namespace Limedika.Controllers
             return RedirectToAction("Clients");
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
         public IActionResult ClientLogs(Client client)
         {
             dynamic myModel = new ExpandoObject();
@@ -83,6 +86,20 @@ namespace Limedika.Controllers
             myModel.ClientLogs = _context.ClientsLogs.Where(x => x.Name == client.Name).ToList();
 
             return View(myModel);
+        }
+        public IActionResult RemoveClient(Client client)
+        {
+            var clientLogs = _context.ClientsLogs.Where(cl => cl.Name == client.Name).ToList();
+            _context.ClientsLogs.RemoveRange(clientLogs);
+            _context.Remove(client);
+            _context.SaveChanges();
+
+            return RedirectToAction("Clients");
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

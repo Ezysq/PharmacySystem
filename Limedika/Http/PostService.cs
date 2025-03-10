@@ -1,7 +1,4 @@
-﻿using System.Net.Http;
-using System.Runtime.InteropServices.JavaScript;
-using System.Text.Json;
-using Limedika.Data;
+﻿using Limedika.Data;
 using Limedika.Models;
 using Newtonsoft.Json.Linq;
 

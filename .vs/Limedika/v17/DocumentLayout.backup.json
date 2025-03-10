@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\importclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\importclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\views\\home\\clientlogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\views\\home\\clientlogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\importclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\importclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\clientlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\clientlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\http\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\http\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\data\\clientsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\data\\clientsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\views\\home\\createeditclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\views\\home\\createeditclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|c:\\users\\ezys\\desktop\\work\\c#\\pharmacysystem\\limedika\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9471604-0FFA-48BA-BFE8-43C9D4386A8E}|Limedika\\Limedika.csproj|solutionrelative:limedika\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +62,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Program.cs",
+              "RelativeDocumentMoniker": "Limedika\\Program.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Program.cs",
+              "RelativeToolTip": "Limedika\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:37:24.012Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Clients.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Clients.cshtml",
-              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\Clients.cshtml",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Clients.cshtml",
-              "RelativeToolTip": "Limedika\\Views\\Home\\Clients.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T03:02:02.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientLogs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\ClientLogs.cshtml",
-              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\ClientLogs.cshtml",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\ClientLogs.cshtml",
-              "RelativeToolTip": "Limedika\\Views\\Home\\ClientLogs.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T03:01:43.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Limedika\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\Client.cs",
-              "RelativeToolTip": "Limedika\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:45:03.473Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImportClients.cs",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ImportClients.cs",
-              "RelativeDocumentMoniker": "Limedika\\Models\\ImportClients.cs",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ImportClients.cs",
-              "RelativeToolTip": "Limedika\\Models\\ImportClients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:35:15.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Limedika\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T14:20:26.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\appsettings.json",
               "RelativeDocumentMoniker": "Limedika\\appsettings.json",
               "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\appsettings.json",
               "RelativeToolTip": "Limedika\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T13:55:11.751Z",
+              "WhenOpened": "2025-03-10T11:37:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportClients.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ImportClients.cs",
+              "RelativeDocumentMoniker": "Limedika\\Models\\ImportClients.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ImportClients.cs",
+              "RelativeToolTip": "Limedika\\Models\\ImportClients.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:36:45.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Limedika\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Limedika\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:36:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientLog.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ClientLog.cs",
+              "RelativeDocumentMoniker": "Limedika\\Models\\ClientLog.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\ClientLog.cs",
+              "RelativeToolTip": "Limedika\\Models\\ClientLog.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:36:37.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Program.cs",
-              "RelativeDocumentMoniker": "Limedika\\Program.cs",
-              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Program.cs",
-              "RelativeToolTip": "Limedika\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAA4AAAAAAAAAA==",
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Limedika\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Models\\Client.cs",
+              "RelativeToolTip": "Limedika\\Models\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T17:22:14.214Z"
+              "WhenOpened": "2025-03-10T11:36:33.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PostService.cs",
               "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Http\\PostService.cs",
               "RelativeDocumentMoniker": "Limedika\\Http\\PostService.cs",
               "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Http\\PostService.cs",
               "RelativeToolTip": "Limedika\\Http\\PostService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:20:38.396Z"
+              "WhenOpened": "2025-03-10T11:35:21.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "ClientsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Data\\ClientsDbContext.cs",
+              "RelativeDocumentMoniker": "Limedika\\Data\\ClientsDbContext.cs",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Data\\ClientsDbContext.cs",
+              "RelativeToolTip": "Limedika\\Data\\ClientsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:34:57.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Limedika\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T11:19:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientLogs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\ClientLogs.cshtml",
+              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\ClientLogs.cshtml",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\ClientLogs.cshtml",
+              "RelativeToolTip": "Limedika\\Views\\Home\\ClientLogs.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T11:17:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEditClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\CreateEditClient.cshtml",
+              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\CreateEditClient.cshtml",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\CreateEditClient.cshtml",
+              "RelativeToolTip": "Limedika\\Views\\Home\\CreateEditClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T11:21:52.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clients.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Clients.cshtml",
+              "RelativeDocumentMoniker": "Limedika\\Views\\Home\\Clients.cshtml",
+              "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Views\\Home\\Clients.cshtml",
+              "RelativeToolTip": "Limedika\\Views\\Home\\Clients.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T11:17:01.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Limedika\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Ezys\\Desktop\\Work\\C#\\PharmacySystem\\Limedika\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Limedika\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:23:28.432Z"
+              "WhenOpened": "2025-03-10T10:33:22.268Z",
+              "EditorCaption": ""
             }
           ]
         }

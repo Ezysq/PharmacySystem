@@ -21,6 +21,18 @@
 				<td>@Model.Client.PostCode</td>
 			</tr>
 		</tbody>
+		@using (Html.BeginForm("CreateEditClient", "Home", (object)Model.Client))
+		{
+			<button class="btn btn-primary">Edit</button>
+		}
+		@using (Html.BeginForm("Clients", "Home"))
+		{
+			<button class="btn btn-primary">Back to List</button>
+		}
+		@using (Html.BeginForm("RemoveClient", "Home", (object)Model.Client))
+		{
+			<button class="btn btn-danger">Delete</button>
+		}
 	</table>
 </div>
 
